@@ -1,0 +1,6 @@
+{
+  "name": "MegaUnzipper Companion & PHP Server Inspector",
+  "description": "Profesjonalne narzędzie do analizy i personalizacji skryptu MegaUnzipper oraz inspekcji parametrów serwera PHP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

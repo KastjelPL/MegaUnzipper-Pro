@@ -1,0 +1,43 @@
+{
+  "name": "react-example",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port=3000 --host=0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview",
+    "clean": "rm -rf dist server.js",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "*",
+    "@tailwindcss/vite": "*",
+    "@types/bcryptjs": "*",
+    "@vitejs/plugin-react": "*",
+    "bcryptjs": "*",
+    "dotenv": "*",
+    "express": "*",
+    "lucide-react": "*",
+    "motion": "*",
+    "puppeteer": "^25.3.0",
+    "react": "*",
+    "react-dom": "*",
+    "simple-icons": "^16.26.0"
+  },
+  "devDependencies": {
+    "@types/express": "*",
+    "@types/node": "*",
+    "autoprefixer": "*",
+    "esbuild": "*",
+    "tailwindcss": "*",
+    "tsx": "*",
+    "typescript": "*",
+    "vite": "*"
+  },
+  "allowScripts": {
+    "@google/genai": true,
+    "esbuild": true,
+    "protobufjs": true
+  }
+}
