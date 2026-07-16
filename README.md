@@ -1,3 +1,19 @@
+[ENGLISH](https://github.com/KastjelPL/MegaUnzipper-Pro/blob/main/README.md) | [POLISH](https://github.com/KastjelPL/MegaUnzipper-Pro/blob/main/README_PL.md)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/logo.jpg" alt="Logo">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/hero.jpg" alt="Hero">
+</p>
+
+<p align="center">
+  <a href="https://megadesign.pl/megadesign/megaunzipper/">
+    <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/btn-download.png" alt="Download">
+  </a>
+</p>
+
 # 📦 MegaUnzipper Pro
 
 **MegaUnzipper Pro** is an advanced, professional web-based tool for server-side archive extraction, remote downloading, and software deployment directly on PHP/FTP servers. The application consists of a responsive configuration companion wizard (built with React and TypeScript) and a generated, optimized, and 100% standalone **`unzipper_pro.php`** script designed for deployment on target web hosts.
@@ -5,6 +21,10 @@
 No more slow, file-by-file FTP transfers of large CMS scripts. With MegaUnzipper Pro, you can download and extract any archive or CMS in a matter of seconds.
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/generator.jpg" alt="Generator">
+</p>
 
 ## 🚀 Key Features of `unzipper_pro.php`
 
@@ -53,6 +73,10 @@ Live diagnostics are built directly into the **PHP Server Parameters** card insi
 *   Provides detailed feedback reporting which files were deleted or failed (due to folder permission blocks).
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/megaunzipper-view.jpg" alt="MegaUnzipper View">
+</p>
 
 ## 🔒 Advanced Security Core
 

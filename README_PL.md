@@ -1,3 +1,19 @@
+[ENGLISH](https://github.com/KastjelPL/MegaUnzipper-Pro/blob/main/README.md) | [POLISH](https://github.com/KastjelPL/MegaUnzipper-Pro/blob/main/README_PL.md)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/logo.jpg" alt="Logo">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/hero.jpg" alt="Hero">
+</p>
+
+<p align="center">
+  <a href="https://megadesign.pl/megadesign/megaunzipper/">
+    <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/btn-download.png" alt="Download">
+  </a>
+</p>
+
 # 📦 MegaUnzipper Pro
 
 **MegaUnzipper Pro** to zaawansowany, profesjonalny system webowy do zarządzania archiwami i automatyzacji instalacji oprogramowania bezpośrednio na serwerach PHP/FTP. Aplikacja składa się z responsywnego kreatora (napisanego w React i TypeScript) oraz generowanego, zoptymalizowanego, w 100% niezależnego skryptu **`unzipper_pro.php`**, który wgrywa się na serwer docelowy.
@@ -5,6 +21,10 @@
 Koniec z uciążliwym wgrywaniem tysięcy drobnych plików CMS przez wolne połączenie FTP. Dzięki MegaUnzipper Pro możesz pobrać i wdrożyć dowolne archiwum lub popularny CMS w kilka sekund.
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/generator.jpg" alt="Generator">
+</p>
 
 ## 🚀 Główne Funkcje Wygenerowanego Skryptu (`unzipper_pro.php`)
 
@@ -53,6 +73,10 @@ Wszystkie niezbędne informacje o serwerze wbudowane są bezpośrednio w kartę 
 *   Zwraca szczegółowy raport (które pliki/foldery zostały pomyślnie skasowane, a które zgłosiły błąd uprawnień).
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/megaunzipper-view.jpg" alt="MegaUnzipper View">
+</p>
 
 ## 🔒 Zaawansowane Zabezpieczenia (Security Core)
 
