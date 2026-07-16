@@ -22,6 +22,16 @@ Koniec z uciążliwym wgrywaniem tysięcy drobnych plików CMS przez wolne poł�
 
 ---
 
+## ⚡ Szybki start (Gotowy plik do testów)
+
+Nie masz ochoty generować własnego pliku? W repozytorium udostępniamy gotowy, wygenerowany plik **`unzipper_pro-EN-1.2.0.php`**, który możesz od razu pobrać i przetestować na swoim serwerze!
+
+*   **Link do pliku**: [unzipper_pro-EN-1.2.0.php](https://github.com/KastjelPL/MegaUnzipper-Pro/blob/main/unzipper_pro-EN-1.2.0.php)
+*   **Hasło logowania**: `admin`
+*   **Zabezpieczenia**: Wszystkie opcjonalne funkcje bezpieczeństwa (m.in. Safe Extraction) są domyślnie **włączone**.
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/generator.jpg" alt="Generator">
 </p>

@@ -22,6 +22,16 @@ No more slow, file-by-file FTP transfers of large CMS scripts. With MegaUnzipper
 
 ---
 
+## ⚡ Quick Start
+
+Don't want to run the generator? We've included a ready-to-use, pre-generated script **`unzipper_pro-EN-1.2.0.php`** directly in the repository for quick testing!
+
+*   **Download link**: [unzipper_pro-EN-1.2.0.php](https://github.com/KastjelPL/MegaUnzipper-Pro/blob/main/unzipper_pro-EN-1.2.0.php)
+*   **Password**: `admin`
+*   **Settings**: All optional security features (Safe Extraction, etc.) are **enabled**.
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/KastjelPL/MegaUnzipper-Pro/main/images/generator.jpg" alt="Generator">
 </p>
